@@ -1,13 +1,13 @@
-# qtum-opcodes-js
-The QTUM opcodes map
+# bcs-opcodes-js
+The BCS opcodes map
 
 ## Installation
 ``` bash
-npm install qtum-opcodes
+npm install bcs-opcodes
 ```
 
 ## Setup
 ### Node.js
 ``` javascript
-var ops = require('qtum-opcodes')
+var ops = require('bcs-opcodes')
 ```
